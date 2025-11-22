@@ -19,6 +19,7 @@ The first letter word to represent color resistor code in table (1)
 
 View the resistors and based on the color bands determine its value. Below is an example:
 <img width="465" height="103" alt="image" src="https://github.com/user-attachments/assets/f705a496-eabe-4df0-a164-6c3477be407a" />
+
 The first band is a one (1), the second band is a zero (0), and the multiplier band or third band is one time text to the third power (103) or one thousand (1000). Multiply 10  times 1000.
 Determine the value and tolerance of the 10 resistors as shown in the following tables for chart fig. (3):
 
