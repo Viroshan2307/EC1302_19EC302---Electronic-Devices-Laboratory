@@ -14,11 +14,12 @@
 ## THEORY
 A NPN function transistor consist of a silicon (or germanium) crystal in which a layer of p – type silicon is sandwiched between two layers of N – type silicon.  The arrow on emitter lead specifies the direction of the current flow when the emitter – base Junction is biased in the forward direction since the conductivity of the BJT depends on both the majority and minority carriers it is called bipolar device.  In CE configuration base is the i/p terminal, collector is the o/p terminal and emitter is common to both input and output.  The ratio of change in I<sub>c</sub> to change in base current Ib is known as Current amplification factor or current gain..
 ## CIRCUIT DIAGRAM: 
-## FORWARD BIAS:
+![WhatsApp Image 2025-12-03 at 11 13 51_f631cf90](https://github.com/user-attachments/assets/4f350973-fd91-4cde-a02e-738847f41e00)
 
-## REVERSE BIAS:
 
 ## MODEL GRAPH:
+![WhatsApp Image 2025-12-03 at 11 13 51_93f34010](https://github.com/user-attachments/assets/a4b9a4c5-dd27-4be2-8719-07b354ef242b)
+![WhatsApp Image 2025-12-03 at 11 13 52_eaeef066](https://github.com/user-attachments/assets/7de06114-23f2-44e9-bc9c-ab09cf6cc5c2)
 
 ## PROCEDURE:  
 ## INPUT CHARACTERISTICS
@@ -55,10 +56,13 @@ A NPN function transistor consist of a silicon (or germanium) crystal in which a
 ## TABULATION:
 
 ## INPUT CHARATERISTICS:
+![WhatsApp Image 2025-12-03 at 11 13 52_5c29fd93](https://github.com/user-attachments/assets/2b892a0f-d03e-48d1-b0e8-fa5a79591de7)
 
 ## OUTPUT CHARATERISTICS:
+![WhatsApp Image 2025-12-03 at 11 13 53_eb50b7ef](https://github.com/user-attachments/assets/dff5abe5-5acf-4656-bcb0-7554056924ba)
 
 ## CALCULATIONS:
+![WhatsApp Image 2025-12-03 at 11 13 53_5dc851b5](https://github.com/user-attachments/assets/dcd7480b-837a-4d1f-b0a3-f91482d7c454)
 
 ## GRAPH:
 
