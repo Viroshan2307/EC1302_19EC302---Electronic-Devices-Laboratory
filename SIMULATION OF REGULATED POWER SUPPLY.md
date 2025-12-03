@@ -32,19 +32,16 @@ LT-Spice
 12.Click Run → Advanced→ Transient Analysis and set the stop time (e.g.,60 ms).
 
 13.Click Run, and place the probe at each stage to observe: Transformer output, Rectifier output, Filtered output, Regulated output, Load voltage.
-
-
-
-## CIRCUIT DIAGRAM:
-
-
 ## AC INPUT WAVEFORM:
+![WhatsApp Image 2025-11-29 at 19 00 05_87927874](https://github.com/user-attachments/assets/def35a1d-9ed1-45a8-ae49-8519f2b31257)
 
 
 ## OUTPUT GRAPH:
 ## SIGNAL OUTPUT(WITHOUT FILTER)
+![WhatsApp Image 2025-11-29 at 19 00 05_6d41035d](https://github.com/user-attachments/assets/41bc93c8-3940-4fa5-a221-2c2c4fef55d6)
 
 ## SIGNAL OUTPUT(WITH FILTER)
+![WhatsApp Image 2025-11-29 at 19 00 05_3ca86c8c](https://github.com/user-attachments/assets/1a7635bc-0cf0-410a-9b79-7483e7d14603)
 
 
 
