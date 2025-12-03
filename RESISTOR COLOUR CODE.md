@@ -42,7 +42,8 @@ Determine the value and tolerance of the 10 resistors as shown in the following 
 ![WhatsApp Image 2025-12-03 at 11 20 04_d97c048e](https://github.com/user-attachments/assets/40b867b0-8bf8-4d92-b737-c5c4f2f9fb98)
 
 ## Table 2-6
-![WhatsApp Image 2025-12-03 at 11 20 04_5f0d0cf0](https://github.com/user-attachments/assets/64edfa01-13ad-4134-9b03-7fc23eb037dd)
+
+![WhatsApp Image 2025-12-03 at 13 59 00_08009f24](https://github.com/user-attachments/assets/563d1053-0cd1-4d82-a0b3-76c4d4522293)
 
 ## Table 2-7
 ![WhatsApp Image 2025-12-03 at 11 20 04_5f0d0cf0](https://github.com/user-attachments/assets/37eb4dc9-8a92-4367-8a46-00f5d26b006d)
@@ -57,21 +58,29 @@ Determine the value and tolerance of the 10 resistors as shown in the following 
 ![WhatsApp Image 2025-12-03 at 11 20 05_768f1d02](https://github.com/user-attachments/assets/19c58972-18c5-4a75-8b73-a3ada123290e)
 
 ## Table 2-11
-![WhatsApp Image 2025-12-03 at 11 20 05_768f1d02](https://github.com/user-attachments/assets/2d2e176f-6b5e-4392-b5c2-9aa291b972ce)
+
+![WhatsApp Image 2025-12-03 at 13 59 00_0ad00057](https://github.com/user-attachments/assets/dc114ffa-90e0-4204-85ef-bb313faee5a4)
 
 ## 2.	Record resistor colors gave to its value in below :
 ## i) 4.7 KΩ ± 5%  
 
+![WhatsApp Image 2025-12-03 at 13 59 01_e9f19e27](https://github.com/user-attachments/assets/f86df738-defc-46c5-a8d6-f68420dfe0fe)
+
 ## ii) 910 Ω ± 10%  
+
+![WhatsApp Image 2025-12-03 at 13 59 01_e3c9a55c](https://github.com/user-attachments/assets/8cf9bc87-73eb-429c-b7d6-200a6f413bdf)
 
 ## iii) 12 KΩ ± 5%  
 
+![WhatsApp Image 2025-12-03 at 13 59 01_78cd8866](https://github.com/user-attachments/assets/3302b6bf-d643-40b5-9837-ea0b5f4bfa98)
+
 ## iv) 6.8 KΩ ± 20%  
+
+![WhatsApp Image 2025-12-03 at 13 59 02_1d17610c](https://github.com/user-attachments/assets/185f681d-e688-4a6b-b0df-7c6d18298b7e)
 
 ## v) 47 KΩ ± 20%  
 
-## 3.	Find out the resistor value and tolerance of the 5 resistors provided using colour coding.
-
+![WhatsApp Image 2025-12-03 at 13 59 02_fbe64934](https://github.com/user-attachments/assets/17353011-a672-4c59-a8f8-3f7f5451f353)
 
 ## RESULT:
  Thus the resistor value and tolerance of the provided resistors were calculated successfully.
