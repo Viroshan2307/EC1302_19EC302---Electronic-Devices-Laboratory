@@ -33,8 +33,8 @@ LT-Spice
 
 13.Click Run, and place the probe at each stage to observe: Transformer output, Rectifier output, Filtered output, Regulated output, Load voltage.
 ## AC INPUT WAVEFORM:
-![WhatsApp Image 2025-11-29 at 19 00 05_87927874](https://github.com/user-attachments/assets/def35a1d-9ed1-45a8-ae49-8519f2b31257)
 
+![WhatsApp Image 2025-11-29 at 19 00 04_0cb9141c](https://github.com/user-attachments/assets/70223808-7ee5-4da2-b6c1-6171a20208f6)
 
 ## OUTPUT GRAPH:
 ## SIGNAL OUTPUT(WITHOUT FILTER)
